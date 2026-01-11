@@ -41,7 +41,7 @@ The script is designed to be **single-file and reproducible**: it searches PubMe
 
 ```r
 config <- list(
-  output_dir   = "C:/Rprojects/parkinsons_textmining/Outputs",
+  output_dir   = "Insert Path",
   run_search   = TRUE,
   max_articles = 800,
   year_min     = 1995,
